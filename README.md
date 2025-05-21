@@ -39,7 +39,8 @@ PACKAGE DIAGRAM
 
 SEQUENCE DIAGRAM
 
-![image](https://github.com/user-attachments/assets/58cd230c-0dc4-493a-95f6-9f931ab7d846)
+![image](https://github.com/user-attachments/assets/16b2c598-34b0-4de8-9a46-04798970f014)
+
 
 
 # RESULT:
